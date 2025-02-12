@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: lib/junit-3.8.1.jar
+Main-Class: com.akash.main.MyAppClass
+Created-By: Maven Integration for Eclipse
+
