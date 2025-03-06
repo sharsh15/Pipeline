@@ -10,7 +10,7 @@ public class MyAppClass {
 		
 		
 		for(int i = 1 ; i < 11 ; i++) {
-			System.out.println(i + " Hi this is my new feature...hahahahahahaha ..........");
+			System.out.println(i + " Hi this is my new feature...hahahahahahaha");
 		}
 	}
 
